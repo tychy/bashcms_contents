@@ -9,7 +9,7 @@ Copyright: (C) 2017 Ryu Yamada
 
 
 ## <span id="white">キャベツ</span>
-![キャベツ](./green.jpg =250x250)
+![キャベツ](./green.jpg)
 
 ## Reference
 
