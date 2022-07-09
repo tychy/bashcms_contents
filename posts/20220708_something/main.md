@@ -6,7 +6,7 @@ Copyright: (C) 2022 Ryu Yamada
 
 # Spring
 ## My Fair Lady
-The rain in Spain stays mainly in the plain.
+The rain in Spain stays mainly in the plain...
 
 * [大根へジャンプ](#daikon)
 
