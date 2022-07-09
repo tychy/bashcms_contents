@@ -1,6 +1,6 @@
 ---
 Keywords: キャベツ
-Copyright: (C) 2022 Ryu Yamada
+Copyright: (C) 2017 Ryu Yamada
 ---
 
 
