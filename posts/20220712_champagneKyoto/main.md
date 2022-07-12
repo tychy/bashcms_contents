@@ -12,5 +12,8 @@ Copyright: (C) 2022 Ryu Yamada
 ちょっと柑橘系よりのさわやかな香りだった。ただ、すっぱいという感じではない。
 
 
-- Comtes de Champagne Blanc de Blancs
-Krugとの対比もあったかもしれないが、最初いちごの甘さがきて次第にもっと重い甘さになった
+- Comtes de Champagne Blanc de Blancs(テタンジェ) [link](https://www.sapporobeer.jp/wine/taittinger/lineup.html)
+Krugとの対比もあったかもしれないが、いきなりいちごの甘さを強く感じてびっくりした。めっちゃ甘い！と思った。次第にもっと複雑な甘さになった。
+ソムリエさんがめちゃくちゃおすすめしてくれたの頼んでみたが、個人的にはコントのほうが感激が大きかった。（どっちもすごかったけど。）
+
+次からは覚えてるうちに書こう。。。
