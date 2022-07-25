@@ -28,12 +28,15 @@ alp, slow-queryを使えるようにする
 
 DB、Appの複数台分散
 
-思ったより準備に時間が取れず、基本的なことしか準備できませんでした。
+
+...思ったより準備に時間が取れず、基本的なことしか準備できませんでした。
 
 ## タイムライン
+
 点数は記録が残っているところだけ書きます。
 
 ### 10:19
+
 とりあえずベンチマークを走らせた 初期状態 3000点
 
 初期状態のalpはこんな感じでした。
@@ -64,7 +67,9 @@ DB、Appの複数台分散
 
 
 ### 10:47
+
 とりあえず`/api/player/player`でbulk insertできそうなところがあったので改善。3538点
+
 
 ```
 +-------+--------+---------------------------------------+-------+--------+---------+-------+--------+
@@ -93,6 +98,7 @@ DB、Appの複数台分散
 
 
 ## ~14時頃
+
 mysql二台構成に変更して、slow-queryのログを見ながら
 
 ```
@@ -128,12 +134,14 @@ Count: 3  Time=0.00s (0s)  Lock=0.00s (0s)  Rows=0.0 (0), 0users@0hosts
 `CREATE INDEX talent_competition ON player_score(tenant_id, competition_id, player_id, row_num DESC);`
 
 のようにindexを張ったり、
+
 [n+1を直してみたり](https://github.com/ISUCON-tychy/isucon12-qualify/commit/adad29f89c958db97e81daaba22e2a2084e8ebcb)していました。点数は4000点台だったような記憶。
 
 ## 14:23
-id_generatorが遅いことに気がつく。uuidでいいじゃんと思い切り替える。　[411962ea7acddd2cbe598063185ff4f1cfe02a36](https://github.com/ISUCON-tychy/isucon12-qualify/commit/411962ea7acddd2cbe598063185ff4f1cfe02a36)
+id_generatorが遅いことに気がつく。[uuidでいいじゃんと思い切り替える。](https://github.com/ISUCON-tychy/isucon12-qualify/commit/411962ea7acddd2cbe598063185ff4f1cfe02a36)
 
 この瞬間が最高順位でした。
+
 
 ![スクリーンショット 2022-07-23 14.23.18.png](スクリーンショット 2022-07-23 14.23.18.png)
 
@@ -176,10 +184,13 @@ id_generatorが遅いことに気がつく。uuidでいいじゃんと思い切�
  Count: 1  Time=0.01s (0s)  Lock=0.00s (0s)  Rows=0.0 (0), isucon[isucon]@isuports-3.t.isucon.dev
    DELETE FROM tenant WHERE id > N
 ```
+
 slow-queryがmysqlに対してしか流せていなかった　＆ pprofの設定をしてなかったので手詰まり感があった。
+
 `/api/player/player`、`/api/player/competition/.+/ranking `、`/api/admin/tenants/billing`、が遅いのはalpからわかっていたのでできそうな修正を細かくしていった。 13000点前後
 
 ## 17:52
+
 あまり点数が伸びなかったので、再起動試験をせずに開発を継続した。
 
 `% sudo tail -f /var/log/syslog`を見ればログが見れることに気が付き、[n+1をもう一つギリギリで修正](https://github.com/ISUCON-tychy/isucon12-qualify/commit/c29cec9e87f97732259f9f13f7182dfdc0683949)
