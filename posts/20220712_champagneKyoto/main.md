@@ -1,5 +1,5 @@
 ---
-Keywords: Wine
+Keywords: Wine, 京都
 Copyright: (C) 2022 Ryu Yamada
 ---
 

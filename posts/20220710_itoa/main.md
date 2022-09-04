@@ -1,5 +1,5 @@
 ---
-Keywords:
+Keywords: プログラミング
 Copyright: (C) 2022 Ryu Yamada
 ---
 # itoaを実装してみた
