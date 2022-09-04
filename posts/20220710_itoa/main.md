@@ -1,5 +1,5 @@
 ---
-Keywords: プログラミング, joelonsoftware, プログラミング
+Keywords: ログラミング, joelonsoftware, プログラミング
 Copyright: (C) 2022 Ryu Yamada
 ---
 # itoaを実装してみた
