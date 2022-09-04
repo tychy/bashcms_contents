@@ -1,5 +1,5 @@
 ---
-Keywords: キャベツ
+Keywords: wiki,　雑学
 Copyright: (C) 2022 Ryu Yamada
 ---
 
