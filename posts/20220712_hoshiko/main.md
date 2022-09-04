@@ -1,5 +1,5 @@
 ---
-Keywords: 酒
+Keywords: 酒, リキュール
 Copyright: (C) 2022 Ryu Yamada
 ---
 
