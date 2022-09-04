@@ -1,5 +1,5 @@
 ---
-Keywords:
+Keywords: Franch, English
 Copyright: (C) 2022 Ryu Yamada
 ---
 
