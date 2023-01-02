@@ -59,7 +59,7 @@ whole nine yardsという何から何までという意味の表現があるが�
 pandoc --template="$viewdir/template.html" --metadata-file="$tmp-meta.yaml" -f gfm+yaml_metadata_block "$md"
 ```
 
-- markdown_githubをgfmに変更した
+markdown_githubをgfmに変更した。
 
 pandoc 2.0以上が必要だったので、インストールし直した。
 
@@ -68,3 +68,4 @@ pandoc 2.0以上が必要だったので、インストールし直した。
 2. `sudo dpkg -i pandoc-2.19.2-1-amd64.deb`などでインストール
 
 
+まだ色々うまく表示されないのでかなり読みにくいブログになってしまっている。早くBootstrap入れたい。
