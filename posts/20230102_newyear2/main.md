@@ -48,6 +48,21 @@ whole nine yardsという何から何までという意味の表現があるが�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Re5FPU5_37g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 瑞穂運動場西　→　新瑞橋　→　堀田　→　牛巻　→　瑞穂運動場西　のランニングをした。
 
  
+## ブログ整備
+
+伝わりにくいと思うが、成果物
+```
+pandoc --template="$viewdir/template.html" --metadata-file="$tmp-meta.yaml" -f gfm+yaml_metadata_block "$md"
+```
+
+- markdown_githubをgfmに変更した
+
+pandoc 2.0以上が必要だったので、インストールし直した。
+1. [Release Page](https://github.com/jgm/pandoc/releases)から最新のpkgをダウンロード
+2. `sudo dpkg -i pandoc-2.19.2-1-amd64.deb`などでインストール
+
+
