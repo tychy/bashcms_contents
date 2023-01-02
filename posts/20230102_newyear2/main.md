@@ -69,3 +69,7 @@ pandoc 2.0以上が必要だったので、インストールし直した。
 
 
 まだ色々うまく表示されないのでかなり読みにくいブログになってしまっている。早くBootstrap入れたい。
+
+#### 参考リンク
+[gfm spec](https://github.github.com/gfm/)
+[pandoc user's guide](https://pandoc.org/MANUAL.html)
