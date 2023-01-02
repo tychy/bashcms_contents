@@ -62,7 +62,9 @@ pandoc --template="$viewdir/template.html" --metadata-file="$tmp-meta.yaml" -f g
 - markdown_githubをgfmに変更した
 
 pandoc 2.0以上が必要だったので、インストールし直した。
+
 1. [Release Page](https://github.com/jgm/pandoc/releases)から最新のpkgをダウンロード
+
 2. `sudo dpkg -i pandoc-2.19.2-1-amd64.deb`などでインストール
 
 
