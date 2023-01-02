@@ -12,7 +12,7 @@ Copyright: (C) 2022 Ryu Yamada
 ![スクリーンショット 2023-01-02 15.47.25](file_hHCq__0lE.png)
 
 ## ヤード・ポンド法
-~~~~~~~
+~~~~~~~code
 12 inch = 1 feet
 
 36 inch = 3 feet = 1 yard
