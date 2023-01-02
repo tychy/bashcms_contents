@@ -5,6 +5,7 @@ Copyright: (C) 2022 Ryu Yamada
 
 
 # 年末休みDay6 1/2
+
 フランス語をかなりサボっている。。。
 
 ## 英語
@@ -41,3 +42,5 @@ https://www.youtube.com/watch?v=0jhnX8BPzes
 瑞穂運動場西　→　新瑞橋　→　堀田　→　牛巻　→　瑞穂運動場西　のランニングをした。
 
 
+## フランス語
+ 
