@@ -44,8 +44,9 @@ whole nine yardsという何から何までという意味の表現があるが�
 ~~~~~~~
 
 ## 運動
-ストレッチ　https://www.youtube.com/watch?v=Re5FPU5_37g
-https://www.youtube.com/watch?v=0jhnX8BPzes
+ストレッチをした。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Re5FPU5_37g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 瑞穂運動場西　→　新瑞橋　→　堀田　→　牛巻　→　瑞穂運動場西　のランニングをした。
 
