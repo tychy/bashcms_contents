@@ -12,13 +12,13 @@ Copyright: (C) 2022 Ryu Yamada
 ![スクリーンショット 2023-01-02 15.47.25](file_hHCq__0lE.png)
 
 ## ヤード・ポンド法
-~~~~~~~code
+```code
 12 inch = 1 feet
 
 36 inch = 3 feet = 1 yard
 
 1 inchは25.4mm、1 feetは304.8mm、1 yardは 914.4mm(= 0.9144m)
-~~~~~~~
+```
 
 whole nine yardsという何から何までという意味の表現があるが意外と広くないんだなと思った。
 
