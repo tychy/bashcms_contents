@@ -9,7 +9,7 @@ Copyright: (C) 2022 Ryu Yamada
 ## 英語
 Anki今日はちょっと多めだった。
 
-![スクリーンショット 2023-01-01 14.46.34](inkdrop://file:nH1fpbUKL)
+![スクリーンショット 2023-01-01 14.46.34](file_nH1fpbUKL.png)
 
 ## DCMA 1201
 [Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)を読んだ。軽くまとめる。
