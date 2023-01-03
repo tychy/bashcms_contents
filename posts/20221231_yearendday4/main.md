@@ -12,6 +12,5 @@ Anki昨日よりは多くやった。
 
 
 ## ブログ整備
-![スクリーンショット 2022-12-31 22.44.31 #x-small](file_BIEdxLG7U.png)
 PV Ranking, Searchを実装した。この成長がすごい。
 
