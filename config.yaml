@@ -3,5 +3,10 @@ links:
   href: '/?page=top'
 - text: 'ブログ'
   href: '/?post'
-- text: 'code'
-  href: 'https://github.com/tychy/bashcms'
+- text: '外部サイト'
+  href: './'
+  sublinks:
+  - text: 'ソースコード'
+    href: 'https://github.com/tychy/bashcms'
+  - text: 'Github Profile'
+    href: 'https://github.com/tychy'
