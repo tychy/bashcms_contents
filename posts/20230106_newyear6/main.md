@@ -1,9 +1,9 @@
 ---
-Keywords:
+Keywords: diary
 Copyright: (C) 2022 Ryu Yamada
 ---
 
-## 年末休みDay10
+# 年末休みDay10
 
 まだあまり本調子ではない。
 
