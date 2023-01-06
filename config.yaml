@@ -10,3 +10,9 @@ links:
     href: 'https://github.com/tychy/bashcms'
   - text: 'Github Profile'
     href: 'https://github.com/tychy'
+
+sociallinks:
+- icon: 'bi-twitter'
+  href: 'https://twitter.com/tychy16'
+- icon: 'bi-github'
+  href: 'https://github.com/tychy'
