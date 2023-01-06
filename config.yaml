@@ -1,7 +1,7 @@
 links:
 - text: 'top'
   href: '/?page=top'
-- text: 'ブログ'
+- text: 'resent posts'
   href: '/?post'
 - text: '外部サイト'
   href: './'
