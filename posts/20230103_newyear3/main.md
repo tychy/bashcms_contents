@@ -4,5 +4,5 @@ Copyright: (C) 2022 Ryu Yamada
 ---
 
 
-# Day7
+# 年末休みDay7
 コロナ
