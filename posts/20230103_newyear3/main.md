@@ -1,5 +1,5 @@
 ---
-Keywords:
+Keywords: diary
 Copyright: (C) 2022 Ryu Yamada
 ---
 
