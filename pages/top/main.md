@@ -11,5 +11,6 @@ This page is underconstruction.
 
 
 ## Links
+
 [Tychy, Inc](https://www.tychy.jp)
 [登記くん](https://toukikun-docs.tychy.jp)
