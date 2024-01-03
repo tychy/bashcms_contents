@@ -11,3 +11,5 @@ Anki はかなりサボってしまった。
 https://www.youtube.com/watch?v=-tGwDjwnNN0
 
 今日はこれを丸暗記しようとしている。
+
+
